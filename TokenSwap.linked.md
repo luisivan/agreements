@@ -20,15 +20,13 @@ Aragon Budget DAO Address
 : 0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e
 
 DAO Agent Address as Nation3 DAO Address
-: Import definitions 
-ipfs://bafybeicm4hbd5ozlvapns4ps4fwpx6ef6mwqfqogikpswjorkk45nor5uy/Constitution.linked.md
+: Import definitions ipfs://bafybeicm4hbd5ozlvapns4ps4fwpx6ef6mwqfqogikpswjorkk45nor5uy/Constitution.linked.md
 
 Nation3 DAO
 : Aragon organization at [%Nation3 DAO Address]
 
 Designated Blockchain Network as Ethereum
-: Import definitions 
-ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
+: Import definitions ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
 
 Irrevocable Stream
 : Smart contract allowing the recipient to unlock tokens over time unconditionally. 
