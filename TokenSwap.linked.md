@@ -35,23 +35,18 @@ Irrevocable Stream
 
 # Token swap agreement
 
-The Aragon Budget DAO and the Nation3 DAO commit to performing a token 
-swap, with the deadline of [%Deadline].
+The Aragon Budget DAO and the Nation3 DAO commit to performing a token swap, with the deadline of [%Deadline].
 
 ## Amounts
 
-The Aragon Budget DAO will provide [%ANT Amount] and [%USDC Amount] to the 
-Nation3 DAO.
+The Aragon Budget DAO will provide [%ANT Amount] and [%USDC Amount] to the Nation3 DAO.
 
 The Nation DAO will provide [%NATION Amount] to the Aragon Budget DAO.
 
 ## Stream
 
-All amounts will linearly unlock in an Irrevocable Stream during [%Vesting 
-Time].
+All amounts will linearly unlock in an Irrevocable Stream during [%Vesting Time].
 
 ## Compensation
 
-Shall one of the parties not proceed with their commitment, the other 
-party shall be compensated with 100% of their collateral. The breaching 
-party shall also send any received amounts back to the sender.
+Shall one of the parties not proceed with their commitment, the other party shall be compensated with 100% of their collateral. The breaching party shall also send any received amounts back to the sender.
