@@ -31,8 +31,7 @@ Designated Blockchain Network as Ethereum
 ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
 
 Irrevocable Stream
-: Smart contract allowing the recipient to unlock tokens over time 
-unconditionally. 
+: Smart contract allowing the recipient to unlock tokens over time unconditionally. 
 
 ---
 
