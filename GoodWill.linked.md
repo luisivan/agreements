@@ -17,8 +17,10 @@ Solar Guild
 
 # Adherence to the proposal
 
-Delivering Parties agree that they will do their best to deliver the Proposal.
+We, the Delivering Parties, hereby commit ourselves to the objectives and key results (OKRs) outlined in the Proposal. We acknowledge that we are collectively responsible for the success of the project outlined in the Proposal, and we hereby pledge to work together diligently to achieve the goals set forth therein.
 
-Shall Solar Guild drastically underperform in delivering the Proposal, Delivering Parties shall be penalized by taking away 30% of their collateral.
+In order to demonstrate our commitment to the project, we are collateralising this agreement with the assets deposited in this Agreement, which will be held in the Agreement until the roadmap is completed to the satisfaction of Nation3 DAO.
 
-Shall Solar Guild stop development altogether or otherwise dissolve before competing the Proposal, and without sending back the remaining funds, Delivering Parties shall be penalized by taking away 100% of their collateral.
+In the event of Solar Guild drastically underperforming in delivering the Proposal, the Delivering Parties agree to be slashed up to 30% of their collateral.
+
+In the event that Solar Guild stops development altogether or otherwise dissolve before competing the Proposal, without sending back the remaining funds, Delivering Parties shall be penalized by taking away 100% of their collateral.
