@@ -26,4 +26,4 @@ Once the Borrower has done so, the Lender will return the Loan's collateral to t
 If Borrower fails to return the principal plus the interest before [%New Repayment Date], Lender shall be compensated with the total collateral in this agreement.
 
 If Borrower has fulfilled their duty but Lender fails to return the collateral before or during [%New Repayment Date], Borrower shall be compensated with the total collateral in this agreement.
-
+include
