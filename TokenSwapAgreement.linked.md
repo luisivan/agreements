@@ -2,21 +2,17 @@ Dispute Resolution Clause
 : Import ipfs://bafybeig23unyfdwrntfymdyr44ngl5amiw7oei57eekmztc3zjzvkof6oa/DisputeResolutionClause.linked.md
 
 Parties
-: [%Party A] and [%Party B]
+: Party A and Party B
 
 ---
 # Token Swap Agreement
 [[toc]]
 
 This Token Swap Agreement is made between Party A and Party B.
-
-The Parties desire to exchange [%Token A Amount] [%Token A] Tokens for an equivalent amount of [%Token B Name] Tokens.
+The Parties desire to exchange [%Token A] Tokens and [%Token B] Tokens.
 
 ## Token Swap
-Party A shall transfer [%Token A Amount] of [%Token A] Tokens to Party B, and Party B shall transfer an equivalent amount of [%Token B] Tokens to Party A.
-
-## Token Price
-The exchange rate between the [%Token A] Tokens and the [%Token B] Tokens shall be fixed at [%Token A Amount] [%Token A] for [%Token B Amount] [%Token B].
+Party A shall transfer [%Token A Amount] of [%Token A] Tokens to Party B, and Party B shall transfer [%Token B Amount]t of [%Token B] Tokens to Party A.
 
 ## Deadline
 The following Token Swap agreement should take place before [%Deadline], as agreed upon by the Parties.
