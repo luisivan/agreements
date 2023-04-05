@@ -12,7 +12,7 @@ This Token Swap Agreement is made between Party A and Party B.
 The Parties desire to exchange [%Token A] Tokens and [%Token B] Tokens.
 
 ## Token Swap
-Party A shall transfer [%Token A Amount] of [%Token A] Tokens to Party B, and Party B shall transfer [%Token B Amount]t of [%Token B] Tokens to Party A.
+Party A shall transfer [%Token A Amount] of [%Token A] Tokens to Party B, and Party B shall transfer [%Token B Amount] of [%Token B] Tokens to Party A.
 
 ## Deadline
 The following Token Swap agreement should take place before [%Deadline], as agreed upon by the Parties.
